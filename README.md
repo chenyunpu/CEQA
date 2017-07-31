@@ -6,26 +6,3 @@
 
 -------------
 
-
-In English: With the rapid development of knowledge graph, the knowledge graph based question answering system in
-Chinese domain has become one of the research hot spots in recent years. It is also important and shows great value in improving
-the intelligent service in professional fields. </br>
-Aiming to solve the problems of diversification of spoken Chinese semantic expression,
-inconformity to the grammar specification and specificity of E-commerce domain, this paper proposed an automatic question
-answering system of Chinese knowledge Graph named CEQA. </br>
-The system provides a better solution for the complex challenges in
-the field of E-commerce like commodity consulting and statistical reasoning, especially improving the performance of some aspects
-like Chinese-English mixed commodity name identification, semantic link and dependency parsing of complex questions.</br>
-Experimental results showed that the system has a high accuracy and practical value in the answering use of E-commerce field
-
-
---------------
-
-
-Front End: <b>anjs,bootstrap,e-charts</b></br>
-service: <b>springmvc,jena</b></br>
-data: tmall.com's spu data(phone :103137 triples,computer:508123 triples)
-
-
-
---------------
